@@ -1,0 +1,10 @@
+Anotações:
+
+Link para Download do git: https://git-scm.com/download/win
+
+Comandos:
+git config global user.name (adiciona o seu nome)
+git config global user.email (adiciona o e-mail) 
+git add (adiciona algo ao repositório)
+git commit -m "menssagem" (confirma alterações)
+git push (salva as alterações no GitHub)
